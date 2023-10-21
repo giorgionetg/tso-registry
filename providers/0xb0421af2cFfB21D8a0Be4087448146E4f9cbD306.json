@@ -1,0 +1,27 @@
+{
+    "name": "FTSO EU",
+    "website": "https://ftso.eu/",
+    "twitter": "https://twitter.com/ftso_eu",
+    "description": "We collect latest price ticker from multiple data sources",
+    "general": "We are an European based Signal Service Provider on the Flare Network.",
+    "availability": "",
+    "logoURI": "",
+    "members": 3,
+    "country": "Italy",
+    "nodes": 4,
+    "categories": [
+        "Utilities",
+        "tools",
+        "nft"
+    ],
+    "ftso_info": {
+        "chainId": 14,
+        "address": "0xb0421af2cFfB21D8a0Be4087448146E4f9cbD306",
+        "epoch": 1
+    },
+    "stso_info": {
+        "chainId": 19,
+        "address": "0x010a16c53F33E4d93892f00897965578b55a8CFC",
+        "epoch": 1
+    }
+}
